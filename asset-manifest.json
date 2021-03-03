@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/numbers-game/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/numbers-game/static/js/main.a31a76ce.chunk.js",
+    "main.js.map": "/numbers-game/static/js/main.a31a76ce.chunk.js.map",
+    "runtime-main.js": "/numbers-game/static/js/runtime-main.c537a022.js",
+    "runtime-main.js.map": "/numbers-game/static/js/runtime-main.c537a022.js.map",
+    "static/js/2.db39837d.chunk.js": "/numbers-game/static/js/2.db39837d.chunk.js",
+    "static/js/2.db39837d.chunk.js.map": "/numbers-game/static/js/2.db39837d.chunk.js.map",
+    "static/js/3.4a34e60f.chunk.js": "/numbers-game/static/js/3.4a34e60f.chunk.js",
+    "static/js/3.4a34e60f.chunk.js.map": "/numbers-game/static/js/3.4a34e60f.chunk.js.map",
+    "index.html": "/numbers-game/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/numbers-game/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.db39837d.chunk.js.LICENSE.txt": "/numbers-game/static/js/2.db39837d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/numbers-game/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c537a022.js",
+    "static/js/2.db39837d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a31a76ce.chunk.js"
+  ]
+}
