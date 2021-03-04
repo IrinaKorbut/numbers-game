@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/numbers-game/static/css/main.85f259e8.chunk.css",
-    "main.js": "/numbers-game/static/js/main.4815c451.chunk.js",
-    "main.js.map": "/numbers-game/static/js/main.4815c451.chunk.js.map",
+    "main.js": "/numbers-game/static/js/main.f7d2c68a.chunk.js",
+    "main.js.map": "/numbers-game/static/js/main.f7d2c68a.chunk.js.map",
     "runtime-main.js": "/numbers-game/static/js/runtime-main.693b107d.js",
     "runtime-main.js.map": "/numbers-game/static/js/runtime-main.693b107d.js.map",
     "static/css/2.150d169a.chunk.css": "/numbers-game/static/css/2.150d169a.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.a547c51a.chunk.js",
     "static/css/main.85f259e8.chunk.css",
-    "static/js/main.4815c451.chunk.js"
+    "static/js/main.f7d2c68a.chunk.js"
   ]
 }
